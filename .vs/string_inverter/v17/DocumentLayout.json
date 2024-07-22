@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\string_inverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB49220-E52E-4B14-9AD6-D314C5F752CC}|string_inverter\\string_inverter.csproj|c:\\users\\lenovo\\source\\repos\\string_inverter\\string_inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB49220-E52E-4B14-9AD6-D314C5F752CC}|string_inverter\\string_inverter.csproj|solutionrelative:string_inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\string_inverter\\string_inverter\\Program.cs",
+              "RelativeDocumentMoniker": "string_inverter\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\string_inverter\\string_inverter\\Program.cs",
+              "RelativeToolTip": "string_inverter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:49:37.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

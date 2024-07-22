@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\bin\Debug\net8.0\string_inverter.exe
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\bin\Debug\net8.0\string_inverter.deps.json
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\bin\Debug\net8.0\string_inverter.runtimeconfig.json
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\bin\Debug\net8.0\string_inverter.dll
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\bin\Debug\net8.0\string_inverter.pdb
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.dll
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\refint\string_inverter.dll
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.pdb
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\string_inverter.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\string_inverter\string_inverter\obj\Debug\net8.0\ref\string_inverter.dll
